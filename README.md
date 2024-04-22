@@ -1,1 +1,2 @@
 # blockmodeling
+running ``barbell_run_draw_graphs.py" generate all the graphs used in the paper, A. Daskin, A Simple Quantum Blockmodeling with Qubits and Permutations, https://arxiv.org/abs/2311.07726
